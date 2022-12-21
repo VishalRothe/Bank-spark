@@ -1,0 +1,44 @@
+ ul {
+    position: relative;
+    top:40px;
+    list-style-type: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color:#FCF6F5FF;
+    display: block;
+    font-weight: bold;
+    font-family: serif;
+    font-size: 20px;
+}
+
+ul li {
+    width: 250px;
+    text-align: center;
+    display: inline-block;
+}
+
+ul li a:hover {
+    color:rgb(255, 235, 144);
+}
+
+
+.navbar {
+    height: 60px;
+    width:1599.99px;
+    position:relative;   
+
+    overflow: hidden;
+    top:0px;
+    z-index: 10;
+    background-color:#990011FF;
+}
+.text{
+    position: relative;
+    margin-right: 15px;
+    top:-35px;
+    padding-top: 2px;
+    right: 20px;
+} 
+
